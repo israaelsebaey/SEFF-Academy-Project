@@ -7,9 +7,13 @@ Admin Panel pages, Student Portal / Instructor portal, Exam System, Jobs Search,
 
 ### Technologies used:
 React.js, State Management
+
 React Bootstrap
+
 JavaScript
+
 HTML
+
 CSS
 
 
